@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently working on a MediHub project both app and website<br>Also working on a sickle cell awareness app and website to aid the affected in getting firsthand information and medication 
+Hello I am Japheth Onyango
+I'm currently working on a MediHub project<br>Also working on a sickle cell awareness app and website to aid the affected in getting firsthand information and medication
+<br> 
+I am constantly learning new programming language and technology advances
+<br>
+I am and AI enthusiast 
+
 
 
 ## 🌐 Socials:
